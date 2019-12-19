@@ -9,7 +9,7 @@
             app:layout_constraintTop_toTopOf="parent"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Tap to play and pause"
+            android:text="Tap to play"
             android:textSize="24sp"
             android:textStyle="bold"
             android:id="@+id/tvTitle"
@@ -27,6 +27,7 @@
                     android:layout_height="wrap_content">
                         <TextView
                             android:textSize="24sp"
+                            android:text="Audio Sample 1"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:id="@+id/tvAudio1"/>
@@ -37,6 +38,7 @@
                     android:layout_height="wrap_content">
                         <TextView
                             android:textSize="24sp"
+                            android:text="Audio Sample 2"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:id="@+id/tvAudio2"/>
@@ -47,6 +49,7 @@
                     android:layout_height="wrap_content">
                         <TextView
                             android:textSize="24sp"
+                            android:text="Audio Sample 3"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:id="@+id/tvAudio3"/>
