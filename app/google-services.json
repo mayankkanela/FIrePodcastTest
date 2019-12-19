@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492383002034",
+    "firebase_url": "https://firepodcasttest.firebaseio.com",
+    "project_id": "firepodcasttest",
+    "storage_bucket": "firepodcasttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492383002034:android:1a49e0fce3d83c9c3458ab",
+        "android_client_info": {
+          "package_name": "com.mayank.firepodcasttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492383002034-bbd5qqkoea80c78iiq9hdufa825c9t19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQSpqM5U6RfGb_VHXln5-f5STWYlYC10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492383002034-bbd5qqkoea80c78iiq9hdufa825c9t19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
